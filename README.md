@@ -5,4 +5,4 @@ tes commit
 push pertama
 
 
-NAMA / NIM
+Azril Izha Rachman / 202410101090
